@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <string name="all_tasks_completed">All tasks completed</string>
+    <string name="nice_work">Nice work</string>
+
+    <string name="text_composable">Text composable</string>
+    <string name="displays_text_follows">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="image_composable">Image composable</string>
+    <string name="creates_composable">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="row_composable">Row composable</string>
+    <string name="layout_composable">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="column_composable">Column composable</string>
+    <string name="a_layout_composable_vertical_sequence">A layout composable that places its children in a vertical sequence.</string>
+    <string name="phone_number">+91 8105 849 650</string>
+    <string name="social_id">\@AndroidDev</string>
+    <string name="email_id">nabajyotiboro@gmail.com</string>
+</resources>
